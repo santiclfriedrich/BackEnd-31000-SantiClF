@@ -1,0 +1,1 @@
+A mi parecer la forma que me resultó mas amigable fue utilizando EJS debido a su simplicidad en la organización y también tanto para escribirla en código.

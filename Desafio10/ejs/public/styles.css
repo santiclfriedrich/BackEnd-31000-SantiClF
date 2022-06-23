@@ -1,0 +1,18 @@
+nav ul {
+    list-style: none;
+    color: wheat;
+    display: flex;
+}
+
+
+.listContainer {
+    display: flex
+}
+
+.formContainer {
+    display: flex;
+}
+
+.card img {
+    max-width: 300px;
+}
